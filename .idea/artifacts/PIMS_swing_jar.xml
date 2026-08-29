@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PIMS_swing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PIMS_swing_jar</output-path>
+    <root id="archive" name="PIMS_swing.jar">
+      <element id="module-output" name="PIMS_swing" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/mysql-connector-j-9.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

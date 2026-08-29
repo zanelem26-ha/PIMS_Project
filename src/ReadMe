@@ -1,0 +1,36 @@
+
+Overview:
+
+This is a desktop application developed using Java Swing and JDBC.
+
+It allows a pharmacy to manage medicines, process sales, and generate reports.
+
+Requirements:
+
+Java JDK 8 or higher
+
+MySQL Workbench
+
+Setup:
+
+Open MySQL Workbench or any MySQL tool
+
+Run the file database.sql, to create the database and tables on mysql workbench
+
+Login Info:
+
+Admin:
+
+Username: admin
+
+Password: admin123
+
+Cashier:
+
+Username: cashier
+
+Password: cash123
+
+Running the Application:
+
+Double click  ZaneleMabunda_pims.exe file provided.
